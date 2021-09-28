@@ -5,12 +5,12 @@
 }
 
 main {
-    padding-left: 10px;
+    padding: 10px;
     flex: 1
 }
 
 header {
-    padding-left: 10px;
+    padding: 10px;
     background-color: antiquewhite;
     border-bottom: 1px solid gray;
     display: flex;
@@ -23,6 +23,7 @@ header ul li{
 }
 
 footer {
+    padding: 10px;
     padding-left: 10px;
     background-color: black;
     color: #fff;
