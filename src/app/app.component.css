@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;    
+    height: 100vh;
+}
+
+main {
+    padding-left: 10px;
+    flex: 1
+}
+
+header {
+    padding-left: 10px;
+    background-color: antiquewhite;
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+}
+
+header ul li{
+    display: inline-block;
+    list-style: none;
+}
+
+footer {
+    padding-left: 10px;
+    background-color: black;
+    color: #fff;
+}
