@@ -8,7 +8,9 @@ main {
     padding: 10px;
     flex: 1
 }
-
+div{
+    border: 1px solid red;
+}
 header {
     padding: 10px;
     background-color: antiquewhite;
