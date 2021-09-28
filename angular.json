@@ -71,7 +71,8 @@
               "browserTarget": "user-management-angular:build:production"
             },
             "development": {
-              "browserTarget": "user-management-angular:build:development"
+              "browserTarget": "user-management-angular:build:development",
+              "proxyConfig": "src/proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
